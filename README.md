@@ -1,11 +1,3 @@
-
-# Python script to generate README.md
-
-def generate_readme():
-    # Define the content sections for the README
-    content = """
-# Snake.io Game 🎮
-
 Welcome to **Snake.io Game** – a modern, responsive reimagination of the classic Snake game by [blobbyofficial](https://blobbyofficial.github.io/classic-games-hub/)!  
 Relive the nostalgia, enjoy smooth animations, and challenge yourself to beat your high score across both desktop and mobile devices. 🚀
 
@@ -270,3 +262,17 @@ We hope you enjoy playing Snake.io Game as much as we enjoyed creating it. Your 
 Thank you for your support and happy gaming! 🎮❤️
 
 Made with ❤️ by blobbyofficial
+
+## 🚀 Follow Me 🌟
+**Stay connected and follow me on my social media platforms for updates, insights, and fun:**
+
+💻 GitHub: *@BlobbyOfficial*
+🐦 Twitter: *@BlobbyOfficial_*
+📸 Facebook: *@BlobbyOfficial*
+🎥 YouTube: *Blobby_Official*
+🎶 TikTok: *@BlobbyOfficial_*
+🎤 Twitch: *@BlobbyOfficial_*
+🌐 Personal Website: *https://blobbyofficial.github.io/blobbyofficial/*
+
+✨ Let’s connect, collaborate, and explore new ideas! ✨
+💬 Feel free to reach out, ask questions, or share your thoughts!
