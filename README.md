@@ -65,3 +65,16 @@ To run **Snake.io Game** on your local machine, follow these steps:
 1. **Clone the Repository**:
    ```bash
    git clone https://github.com/blobbyofficial/snake-io-game.git
+Navigate to the **Project Directory**:
+- bash
+- Copy
+- Edit
+- cd snake-io-game
+**Open the Start Page: Open html/index.html in your web browser. You can simply double-click the file or use your terminal:**
+- bash
+- Copy
+- Edit
+open **html/**index.html****
+---
+Enjoy the Game: Click the Play button to start playing. Use the provided controls to navigate the snake and achieve a high score! If you encounter any issues, ensure that your browser supports modern JavaScript and HTML5.
+
