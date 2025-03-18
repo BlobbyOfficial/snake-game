@@ -1,9 +1,9 @@
 ## **We are aware there is a glitch currently with this site, and we are trying to resolve it as quickly as possible. Thank you for your patience**
 -- for now, you may be able to try another game, but they may also have this glitch
 
+---
 
-
-Welcome to **Snake.io Game** – a modern, responsive reimagination of the classic Snake game by [blobbyofficial](https://blobbyofficial.github.io/classic-games-hub/)!  
+## Welcome to **Snake-Game** – a modern, responsive reimagination of the classic Snake game by [blobbyofficial](https://blobbyofficial.github.io/classic-games-hub/)!  
 Relive the nostalgia, enjoy smooth animations, and challenge yourself to beat your high score across both desktop and mobile devices. 🚀
 
 ![Snake Logo](../images/logo.png)
