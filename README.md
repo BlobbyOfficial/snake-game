@@ -262,17 +262,18 @@ We hope you enjoy playing Snake.io Game as much as we enjoyed creating it. Your 
 Thank you for your support and happy gaming! 🎮❤️
 
 Made with ❤️ by blobbyofficial
+---
 
 ## 🚀 Follow Me 🌟
 **Stay connected and follow me on my social media platforms for updates, insights, and fun:**
 
-💻 GitHub: *@BlobbyOfficial*
-🐦 Twitter: *@BlobbyOfficial_*
-📸 Facebook: *@BlobbyOfficial*
-🎥 YouTube: *Blobby_Official*
-🎶 TikTok: *@BlobbyOfficial_*
-🎤 Twitch: *@BlobbyOfficial_*
-🌐 Personal Website: *https://blobbyofficial.github.io/blobbyofficial/*
+-💻 GitHub: *@BlobbyOfficial*
+-🐦 Twitter: *@BlobbyOfficial_*
+-📸 Facebook: *@BlobbyOfficial*
+-🎥 YouTube: *Blobby_Official*
+-🎶 TikTok: *@BlobbyOfficial_*
+-🎤 Twitch: *@BlobbyOfficial_*
+-🌐 Personal Website: *https://blobbyofficial.github.io/blobbyofficial/*
 
 ✨ Let’s connect, collaborate, and explore new ideas! ✨
 💬 Feel free to reach out, ask questions, or share your thoughts!
