@@ -2,11 +2,11 @@
 Thanks a lot to anyone who played this fun and simple game. It will soon be hosted on the [Classic-Games-Hub](https://classic-games-hub.blobbyofficial.com) very soon. It is moving due to it being such an old and low quality game. The new version will be a lot better, and there will be lots more games to play!
 
 ---
-
+![Snake Logo](https://classic-games-hub.blobbyofficial.com/assets/images/snake-thumb.png)
 ## Welcome to **Snake-Game** – a modern, responsive reimagination of the classic Snake game by [blobbyofficial](https://blobbyofficial.github.io/classic-games-hub/)!  
 Relive the nostalgia, enjoy smooth animations, and challenge yourself to beat your high score across both desktop and mobile devices. 🚀
 
-![Snake Logo](https://classic-games-hub.blobbyofficial.com/assets/images/snake-thumb.png)
+
 
 ---
 
