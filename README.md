@@ -1,4 +1,5 @@
-## This website is moving! Thanks a lot to anyone who played this fun and simple game. It will soon be hosted on the [Classic-Games-Hub](https://classic-games-hub.blobbyofficial.com).
+## This website is moving!
+Thanks a lot to anyone who played this fun and simple game. It will soon be hosted on the [Classic-Games-Hub](https://classic-games-hub.blobbyofficial.com) very soon. It is moving due to it being such an old and low quality game. The new version will be a lot better, and there will be lots more games to play!
 
 ---
 
