@@ -1,5 +1,4 @@
-## **We are aware there is a glitch currently with this site, and we are trying to resolve it as quickly as possible. Thank you for your patience**
--- for now, you may be able to try another game, but they may also have this glitch
+## This website is moving! Thanks a lot to anyone who played this fun and simple game. It will soon be hosted on the [Classic-Games-Hub](https://classic-games-hub.blobbyofficial.com).
 
 ---
 
