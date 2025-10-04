@@ -6,7 +6,7 @@ Thanks a lot to anyone who played this fun and simple game. It will soon be host
 ## Welcome to **Snake-Game** – a modern, responsive reimagination of the classic Snake game by [blobbyofficial](https://blobbyofficial.github.io/classic-games-hub/)!  
 Relive the nostalgia, enjoy smooth animations, and challenge yourself to beat your high score across both desktop and mobile devices. 🚀
 
-![Snake Logo](../images/logo.png)
+![Snake Logo](https://classic-games-hub.blobbyofficial.com/assets/images/snake-thumb.png)
 
 ---
 
