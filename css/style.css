@@ -19,6 +19,12 @@ h1 {
   margin-bottom: 20px;
 }
 
+h2 {
+ font-size: 1.5rem;
+ color: #0f0;
+ margin-bottom: 10px;
+}
+
 button {
   padding: 10px 25px;
   font-size: 18px;
@@ -86,3 +92,4 @@ button:hover {
     font-size: 1.2rem;
   }
 }
+
